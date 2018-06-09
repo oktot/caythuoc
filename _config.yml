@@ -4,7 +4,7 @@ url-title: "Yến Nha Trang"
 description: "Yến Nha Trang."
 paginate: 100
 url: "http://yennhatrang.info/"
-permalink: /:year/:month/:title/
+permalink: /:title/
 future: false
 defaults:
   -

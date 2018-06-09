@@ -1,9 +1,9 @@
 # Site settings
-title: "Đoàn Bình và Thầy Lang"
-url-title: "Vườn Thuốc Nam"
-description: "Đoàn Bình và ông Thầy Lang."
+title: "Yến Nha Trang"
+url-title: "Yến Nha Trang"
+description: "Yến Nha Trang."
 paginate: 100
-url: "http://sanvuonxinh.org/"
+url: "http://yennhatrang.info/"
 permalink: /:year/:month/:title/
 future: false
 defaults:

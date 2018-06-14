@@ -1,9 +1,9 @@
 # Site settings
-title: "Yến Nha Trang"
-url-title: "Yến Nha Trang"
-description: "Yến Nha Trang."
+title: "Health Care"
+url-title: "healthcarelab"
+description: "healthcarelab."
 paginate: 100
-url: "http://yennhatrang.info/"
+url: "http://www.healthcarelab.xyz/"
 permalink: /:title/
 future: false
 defaults:

@@ -1,9 +1,9 @@
 # Site settings
-title: "Health Care"
-url-title: "healthcarelab"
-description: "healthcarelab."
+title: "yennhatrang"
+url-title: "yennhatrang"
+description: "yennhatrang."
 paginate: 100
-url: "http://www.healthcarelab.xyz/"
+url: "http://yennhatrang.info/"
 permalink: /:title/
 future: false
 defaults:
